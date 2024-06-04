@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali Mohamed
-- 👀 I’m interested in Flutter development
+- 👀 I’m interested in Android development
 - 🎓 I’m fresh grad from ASU in Egypt
 - 💼 Mobile app developer
 - ✍️ I love football and gaming
